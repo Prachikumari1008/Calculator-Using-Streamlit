@@ -12,4 +12,5 @@ This is a simple calculator app built using Streamlit, a Python library for buil
 - Prevents division by zero errors by displaying a warning message when attempting to divide by zero.
 - Provides a user-friendly interface for performing calculations.
 
-![Output Image](Calculator using streamlit/Calculator using streamlit.png)
+## Output Image
+  ![Output Image](Calculator using streamlit/Calculator using streamlit.png)
