@@ -13,4 +13,4 @@ This is a simple calculator app built using Streamlit, a Python library for buil
 - Provides a user-friendly interface for performing calculations.
 
 ## Output Image
-  ![Output Image](Calculator using streamlit/Calculator using streamlit.png)
+  ![Output Image] (https://github.com/Prachikumari1008/Calculator-Using-Streamlit/blob/master/Calculator%20using%20streamlit/Calculator%20using%20streamlit.png?raw=true)
